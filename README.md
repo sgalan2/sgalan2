@@ -4,7 +4,7 @@ I'm a Software Engineering Co-op student at McGill University. I enjoy solving p
 
 - 🎓 Bachelor of Software Engineering at McGill University
 - 💼 Technology Analyst Intern at Morgan Stanley
-- 🌱 Interested in software development, AI tooling, automation, and infrastructure
+- 🌱 Interested in software development, AI tooling, and fintech
 - 📍 Based in Montreal, Canada
 - 🌐 English and French
 
